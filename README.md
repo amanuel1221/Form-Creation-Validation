@@ -10,7 +10,7 @@ The project ensures users provide correct input before submitting, improving use
 ### Ths is my first interactive web development journey from the alx learning.
 ### Made the simple form-validation to make interactive with the addition of HTML5 validation in js
 ## 📸 Screenshot
-![Form Screenshot]( Screenshot 2025-12-02 101026.png)
+![Form Screenshot](Screenshot 2025-12-02 101026.png)
 
 ---
 
